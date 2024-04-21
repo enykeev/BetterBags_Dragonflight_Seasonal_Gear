@@ -1,0 +1,12 @@
+## Interface: 100206
+
+## Title: BetterBags - Dragonflight Seasonal Gear
+## Notes: Filter for Dragonflight seasonal gear in BetterBags.
+## Author: Enykeev
+## Version: v1.0.0
+
+## DefaultState: Enabled
+## Dependencies: BetterBags
+
+main.lua
+
